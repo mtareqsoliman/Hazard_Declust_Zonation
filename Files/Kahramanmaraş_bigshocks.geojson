@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Kahramanmaraş__GK74",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ID": 754, "date_decimal": 2023.0970319634703, "year": 2023, "month": 2, "day": 6, "latitude": 37.2256, "longitude": 37.0143, "mag": 7.8, "place": "Pazarcik earthquake, Kahramanmaras earthquake sequence", "zone_id": 999, "cluster_id": 0, "shock_type": "MS", "mainshock_zone": 999, "same_zone": 1, "days_difference": 0 }, "geometry": { "type": "Point", "coordinates": [ 37.0143, 37.2256 ] } },
+{ "type": "Feature", "properties": { "ID": 651, "date_decimal": 2023.0970319634703, "year": 2023, "month": 2, "day": 6, "latitude": 38.0106, "longitude": 37.1962, "mag": 7.5, "place": "Elbistan earthquake, Kahramanmaras earthquake sequence", "zone_id": 10, "cluster_id": 0, "shock_type": "MS", "mainshock_zone": 10, "same_zone": 1, "days_difference": 0 }, "geometry": { "type": "Point", "coordinates": [ 37.1962, 38.0106 ] } }
+]
+}

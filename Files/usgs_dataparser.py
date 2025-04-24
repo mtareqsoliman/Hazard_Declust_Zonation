@@ -7,7 +7,7 @@ def usgs_dataparser(path):
     pd.set_option("display.max_columns", 10)
     pd.set_option("large_repr", "truncate")
     
-    catalogdf = pd.read_csv(path, sep=',', quotechar='"',encoding='utf-8')
+    catalogdf = pd.read_csv(path, sep=',', quotechar='"')
     
     print('Raw earthquake catalogue from USGS')
     display(catalogdf.loc[catalogdf['magType'] == 'm'])
@@ -25,7 +25,6 @@ def usgs_dataparser(path):
     catalogdf['magType'] = catalogdf['magType'].str[:2].str.lower()
     #['mw' 'mb' 'ml' 'm' 'md' 'ms']        
     print(catalogdf['magType'].unique())
-    
     
     # unifying magnitudes
     catalogdf.loc[catalogdf.query('magType == "mw" or magType == "m"').index,'mag']= [MW for MW in catalogdf.query('magType == "mw" or magType == "m"')['mag']]
@@ -47,6 +46,3 @@ def usgs_dataparser(path):
     catalogdf.drop(['magType'],axis=1,inplace=True)
     display(catalogdf.sort_values(by=['date_decimal'], ascending=False))
     return catalogdf
-
-catalogdf = usgs_data(path)
-catalogdf

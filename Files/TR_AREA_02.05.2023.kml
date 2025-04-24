@@ -1,0 +1,2348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+    <name>TR_AREA_02.05.2023</name>
+     <Style id="active-EQLoc">
+         <LineStyle>
+             <color>ff000000</color>
+             <width>3</width>
+         </LineStyle>
+     </Style>
+     <StyleMap id="EQLoc">
+         <Pair>
+             <key>normal</key>
+             <styleUrl>#inactive-EQLoc</styleUrl>
+         </Pair>
+         <Pair>
+             <key>highlight</key>
+             <styleUrl>#active-EQLoc</styleUrl>
+         </Pair>
+     </StyleMap>
+     <Style id="inactive-EQLoc">
+         <LabelStyle>
+             <scale>0</scale>
+         </LabelStyle>
+         <LineStyle>
+             <color>ff0000ff</color>
+             <width>2</width>
+         </LineStyle>
+     </Style>
+    <Placemark>
+        <name>TURAS004</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  29.52400000,39.72600000,0
+                  29.76300000,39.69300000,0
+                  30.33300000,39.61600000,0
+                  31.12700000,39.37400000,0
+                  31.50500000,39.26900000,0
+                  31.79600000,39.69100000,0
+                  31.36000000,39.79600000,0
+                  30.92500000,39.93200000,0
+                  30.30300000,40.12500000,0
+                  29.70000000,40.30100000,0
+                  28.74400000,40.27000000,0
+                  27.91600000,39.98500000,0
+                  29.52400000,39.72600000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS005</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  36.88500000,40.45600000,0
+                  38.01000000,40.08500000,0
+                  39.35900000,39.63400000,0
+                  39.51700000,39.58400000,0
+                  39.72000000,39.52600000,0
+                  39.91000000,39.47500000,0
+                  40.22600000,39.38200000,0
+                  40.46700000,39.31300000,0
+                  40.77900000,39.61700000,0
+                  40.58200000,39.65900000,0
+                  39.84000000,39.79400000,0
+                  39.36200000,40.00700000,0
+                  37.39900000,40.63300000,0
+                  36.36200000,41.00500000,0
+                  35.31800000,41.28400000,0
+                  33.48200000,41.30400000,0
+                  32.19900000,40.97300000,0
+                  31.88600000,40.89100000,0
+                  31.90000000,40.62100000,0
+                  32.83500000,40.69100000,0
+                  33.06200000,40.80900000,0
+                  34.53900000,40.77000000,0
+                  35.47700000,40.58800000,0
+                  36.38700000,40.41500000,0
+                  36.88500000,40.45600000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS006</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  35.90400000,39.56200000,0
+                  36.05400000,39.49600000,0
+                  38.01000000,40.08500000,0
+                  36.88500000,40.45600000,0
+                  36.38700000,40.41500000,0
+                  35.47700000,40.58800000,0
+                  33.66800000,39.86400000,0
+                  33.29000000,39.44600000,0
+                  33.70400000,39.10800000,0
+                  34.78700000,39.97000000,0
+                  35.90400000,39.56200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS007</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  33.97600000,37.93600000,0
+                  34.67200000,37.69000000,0
+                  34.82200000,37.96000000,0
+                  34.24800000,38.42300000,0
+                  33.70400000,39.10800000,0
+                  33.29000000,39.44600000,0
+                  32.97400000,39.62300000,0
+                  32.72600000,39.38500000,0
+                  33.55900000,38.30000000,0
+                  33.97600000,37.93600000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS008</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  34.62200000,36.72600000,0
+                  35.16400000,37.80300000,0
+                  35.78200000,38.39300000,0
+                  34.94600000,38.17000000,0
+                  34.82200000,37.96000000,0
+                  34.67200000,37.69000000,0
+                  34.47900000,37.00100000,0
+                  34.62200000,36.72600000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS009</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  34.54900000,36.27800000,0
+                  35.19100000,35.60700000,0
+                  35.81000000,36.11900000,0
+                  36.40000000,36.79500000,0
+                  36.61700000,37.45700000,0
+                  35.40900000,37.46400000,0
+                  35.30700000,37.03100000,0
+                  34.75500000,36.49400000,0
+                  34.54900000,36.27800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS010</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  36.61700000,37.45700000,0
+                  37.00400000,37.33700000,0
+                  37.14100000,37.45400000,0
+                  37.31500000,37.39700000,0
+                  38.14000000,37.94600000,0
+                  40.62200000,38.74100000,0
+                  40.07600000,38.96400000,0
+                  37.90700000,38.08600000,0
+                  36.81900000,37.63000000,0
+                  36.61700000,37.45700000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS013</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  26.20100000,40.25000000,0
+                  26.28200000,40.27500000,0
+                  26.62100000,40.37400000,0
+                  27.14800000,40.52800000,0
+                  27.44100000,40.56300000,0
+                  27.69700000,40.59400000,0
+                  28.18500000,40.65100000,0
+                  28.72500000,40.50300000,0
+                  28.95800000,40.56500000,0
+                  30.15000000,40.57200000,0
+                  30.68000000,40.55800000,0
+                  31.24800000,40.41900000,0
+                  31.90000000,40.62100000,0
+                  31.88600000,40.89100000,0
+                  31.46400000,40.82600000,0
+                  30.98000000,40.89100000,0
+                  29.65600000,40.87600000,0
+                  29.20700000,40.91800000,0
+                  29.02400000,41.04200000,0
+                  28.58700000,41.04700000,0
+                  27.99500000,41.02500000,0
+                  27.57900000,40.98500000,0
+                  27.27500000,40.91400000,0
+                  26.76800000,40.79800000,0
+                  26.02600000,40.62100000,0
+                  26.20100000,40.25000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS014</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  34.62200000,36.72600000,0
+                  34.74300000,36.48300000,0
+                  35.30700000,37.03100000,0
+                  35.40900000,37.46400000,0
+                  36.77400000,38.36500000,0
+                  37.55600000,38.35600000,0
+                  37.91400000,38.72300000,0
+                  38.04900000,39.16100000,0
+                  38.44400000,39.42400000,0
+                  38.01400000,39.41000000,0
+                  36.03600000,38.63500000,0
+                  35.78200000,38.39300000,0
+                  35.16400000,37.80300000,0
+                  34.62200000,36.72600000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS015</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  35.40900000,37.46400000,0
+                  36.61700000,37.45700000,0
+                  36.81900000,37.63000000,0
+                  37.90700000,38.08600000,0
+                  38.42400000,38.72000000,0
+                  39.14600000,39.25200000,0
+                  38.63000000,39.24300000,0
+                  38.44400000,39.42400000,0
+                  38.04900000,39.16100000,0
+                  37.91400000,38.72300000,0
+                  37.55600000,38.35600000,0
+                  36.77400000,38.36500000,0
+                  35.40900000,37.46400000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS016</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  35.78200000,38.39300000,0
+                  36.03600000,38.63500000,0
+                  38.01400000,39.41000000,0
+                  38.44400000,39.42400000,0
+                  38.63000000,39.24300000,0
+                  39.35900000,39.63400000,0
+                  38.01000000,40.08500000,0
+                  36.05400000,39.49600000,0
+                  35.90400000,39.56200000,0
+                  34.93800000,38.82800000,0
+                  34.94600000,38.17000000,0
+                  35.78200000,38.39300000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS018</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  40.58200000,39.65900000,0
+                  40.77900000,39.61700000,0
+                  41.12400000,39.53600000,0
+                  41.38800000,39.47500000,0
+                  41.86400000,39.35100000,0
+                  43.03600000,39.25600000,0
+                  42.89100000,39.79400000,0
+                  42.24000000,39.90300000,0
+                  42.07600000,39.91000000,0
+                  41.54900000,39.98200000,0
+                  40.58200000,39.65900000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS028</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  45.98700000,37.12700000,0
+                  45.25400000,37.87100000,0
+                  44.60100000,38.50900000,0
+                  43.03600000,39.25600000,0
+                  42.47500000,38.71300000,0
+                  42.77800000,38.61200000,0
+                  43.27600000,38.35900000,0
+                  43.84100000,38.07500000,0
+                  44.47300000,37.75700000,0
+                  44.84800000,37.59000000,0
+                  45.25300000,37.43400000,0
+                  45.58100000,37.30100000,0
+                  45.98700000,37.12700000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS033</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  34.82200000,37.96000000,0
+                  34.94600000,38.17000000,0
+                  34.93800000,38.82800000,0
+                  35.90400000,39.56200000,0
+                  34.78700000,39.97000000,0
+                  33.70400000,39.10800000,0
+                  34.24800000,38.42300000,0
+                  34.82200000,37.96000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS034</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  31.90000000,40.62100000,0
+                  31.24800000,40.41900000,0
+                  30.90700000,40.36200000,0
+                  30.39100000,40.37500000,0
+                  29.70000000,40.30100000,0
+                  30.30300000,40.12500000,0
+                  31.36000000,39.79600000,0
+                  31.60200000,39.73800000,0
+                  31.79600000,39.69100000,0
+                  32.72600000,39.38500000,0
+                  32.97400000,39.62300000,0
+                  33.05800000,40.06600000,0
+                  33.12200000,40.41300000,0
+                  33.37400000,40.80100000,0
+                  33.27000000,40.80300000,0
+                  33.14500000,40.80700000,0
+                  33.06200000,40.80900000,0
+                  32.83500000,40.69100000,0
+                  31.90000000,40.62100000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS037</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  29.50200000,35.14600000,0
+                  30.01800000,35.16700000,0
+                  30.47400000,35.02500000,0
+                  32.01200000,34.17900000,0
+                  31.63000000,36.17300000,0
+                  30.52500000,36.38100000,0
+                  30.18200000,35.79800000,0
+                  29.50200000,35.14600000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS040</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  30.27000000,36.42800000,0
+                  30.52500000,36.38100000,0
+                  31.63000000,36.17300000,0
+                  31.98900000,36.16700000,0
+                  32.53500000,36.16500000,0
+                  32.34700000,36.62300000,0
+                  31.99900000,37.03400000,0
+                  31.53700000,37.82300000,0
+                  30.58200000,37.50200000,0
+                  29.89800000,37.36500000,0
+                  30.27000000,36.42800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS049</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  26.61700000,39.65100000,0
+                  26.99400000,39.75900000,0
+                  27.55000000,39.80600000,0
+                  27.91600000,39.98500000,0
+                  28.74400000,40.27000000,0
+                  29.70000000,40.30100000,0
+                  30.39100000,40.37500000,0
+                  30.90700000,40.36200000,0
+                  31.24800000,40.41900000,0
+                  31.04200000,40.46900000,0
+                  30.68000000,40.55800000,0
+                  30.32700000,40.56800000,0
+                  30.15000000,40.57200000,0
+                  29.89200000,40.57200000,0
+                  29.41300000,40.57000000,0
+                  28.95800000,40.56500000,0
+                  28.72500000,40.50300000,0
+                  28.29500000,40.48100000,0
+                  27.92800000,40.46200000,0
+                  27.71000000,40.39000000,0
+                  27.45300000,40.30500000,0
+                  27.29400000,40.25300000,0
+                  27.04100000,40.16900000,0
+                  26.94000000,40.13600000,0
+                  26.83600000,40.12800000,0
+                  26.70900000,40.11900000,0
+                  26.60500000,40.11100000,0
+                  26.26400000,39.82700000,0
+                  26.17500000,39.75400000,0
+                  26.09400000,39.69400000,0
+                  26.04100000,39.65400000,0
+                  26.11300000,39.58600000,0
+                  26.26200000,39.54500000,0
+                  26.61700000,39.65100000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS050</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  29.25500000,39.42100000,0
+                  29.54900000,39.32200000,0
+                  29.90300000,39.23500000,0
+                  30.22300000,39.12700000,0
+                  30.73300000,38.95500000,0
+                  30.82700000,39.06000000,0
+                  30.93400000,39.17700000,0
+                  31.12700000,39.37400000,0
+                  30.33300000,39.61600000,0
+                  29.52400000,39.72600000,0
+                  29.41300000,39.59800000,0
+                  29.25500000,39.42100000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS051</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  30.73300000,38.95500000,0
+                  31.07100000,38.80100000,0
+                  31.67100000,38.36500000,0
+                  32.09000000,38.14900000,0
+                  32.56600000,38.71900000,0
+                  32.35200000,38.89000000,0
+                  31.50500000,39.26900000,0
+                  31.12700000,39.37400000,0
+                  31.03100000,39.27500000,0
+                  30.93400000,39.17700000,0
+                  30.86400000,39.10000000,0
+                  30.79200000,39.02200000,0
+                  30.73300000,38.95500000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS052</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  28.67900000,38.10200000,0
+                  29.40600000,37.79300000,0
+                  29.34000000,38.15200000,0
+                  29.24100000,38.20800000,0
+                  29.06400000,38.29900000,0
+                  28.79800000,38.43600000,0
+                  28.50100000,38.76200000,0
+                  28.20100000,38.79900000,0
+                  27.96200000,38.98600000,0
+                  27.55100000,39.19000000,0
+                  26.97500000,38.78500000,0
+                  26.74900000,38.07000000,0
+                  26.87500000,38.01800000,0
+                  27.10000000,38.14800000,0
+                  27.31100000,38.24600000,0
+                  27.82400000,38.30800000,0
+                  28.04200000,38.40400000,0
+                  28.51800000,38.27700000,0
+                  28.67900000,38.10200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS069</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  27.41100000,36.13000000,0
+                  28.37400000,36.63300000,0
+                  28.44500000,36.74000000,0
+                  27.80500000,36.60100000,0
+                  26.99600000,36.42600000,0
+                  26.51000000,36.32100000,0
+                  25.23900000,36.08700000,0
+                  24.36900000,36.09200000,0
+                  23.61600000,36.10000000,0
+                  23.79100000,35.81600000,0
+                  24.56600000,35.59500000,0
+                  24.98900000,35.51100000,0
+                  25.68900000,35.53500000,0
+                  26.36800000,35.61400000,0
+                  26.68800000,35.75300000,0
+                  27.41100000,36.13000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS070</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  28.64300000,36.13900000,0
+                  29.39300000,35.89300000,0
+                  29.78100000,36.02700000,0
+                  30.27000000,36.42800000,0
+                  29.89800000,37.36500000,0
+                  29.52500000,37.17000000,0
+                  28.64300000,36.13900000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS071</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  25.60400000,39.66700000,0
+                  25.69600000,39.64700000,0
+                  26.04100000,39.65400000,0
+                  26.16600000,39.74800000,0
+                  26.26400000,39.82700000,0
+                  26.26000000,39.87300000,0
+                  26.25000000,39.98200000,0
+                  26.22700000,40.11600000,0
+                  26.20100000,40.25000000,0
+                  25.62800000,40.11300000,0
+                  25.50400000,40.08400000,0
+                  25.55800000,39.85800000,0
+                  25.60400000,39.66700000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS072</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  29.34000000,38.15200000,0
+                  29.76800000,38.65400000,0
+                  29.15300000,38.95700000,0
+                  28.35100000,38.97400000,0
+                  28.15400000,39.02300000,0
+                  28.08800000,39.03900000,0
+                  28.05700000,39.04600000,0
+                  27.96200000,38.98600000,0
+                  27.97700000,38.97500000,0
+                  27.99700000,38.95900000,0
+                  28.03100000,38.93300000,0
+                  28.04900000,38.91800000,0
+                  28.08500000,38.89000000,0
+                  28.12800000,38.85700000,0
+                  28.16800000,38.82500000,0
+                  28.20100000,38.79900000,0
+                  28.28600000,38.78900000,0
+                  28.49100000,38.76400000,0
+                  28.50100000,38.76200000,0
+                  28.54600000,38.71300000,0
+                  28.57500000,38.68100000,0
+                  28.61800000,38.63300000,0
+                  28.67800000,38.56700000,0
+                  28.72600000,38.51500000,0
+                  28.76900000,38.46700000,0
+                  28.79800000,38.43600000,0
+                  28.85900000,38.40400000,0
+                  28.89500000,38.38600000,0
+                  28.99400000,38.33500000,0
+                  29.09900000,38.28100000,0
+                  29.17600000,38.24100000,0
+                  29.25000000,38.20300000,0
+                  29.34000000,38.15200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS073</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  26.93600000,39.45800000,0
+                  26.92600000,39.40500000,0
+                  27.72200000,39.52100000,0
+                  27.98800000,39.55400000,0
+                  28.34600000,39.46300000,0
+                  28.57700000,39.46200000,0
+                  28.69100000,39.46300000,0
+                  28.88500000,39.46600000,0
+                  29.25500000,39.42100000,0
+                  29.32300000,39.49800000,0
+                  29.41300000,39.59800000,0
+                  29.46100000,39.65200000,0
+                  29.52400000,39.72600000,0
+                  27.91600000,39.98500000,0
+                  27.55000000,39.80600000,0
+                  26.99400000,39.75900000,0
+                  26.98200000,39.69700000,0
+                  26.96900000,39.63800000,0
+                  26.95200000,39.54400000,0
+                  26.93600000,39.45800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS074</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  27.42100000,37.02700000,0
+                  29.01600000,37.17700000,0
+                  29.58100000,37.63400000,0
+                  29.48400000,37.67900000,0
+                  28.21300000,37.61700000,0
+                  27.73700000,37.68200000,0
+                  26.56000000,37.48300000,0
+                  26.49600000,37.11000000,0
+                  26.88200000,37.20900000,0
+                  27.42100000,37.02700000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS075</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  27.10000000,38.14800000,0
+                  27.38000000,37.99700000,0
+                  28.27000000,38.02200000,0
+                  28.67900000,38.10200000,0
+                  28.51800000,38.27700000,0
+                  28.04200000,38.40400000,0
+                  27.82400000,38.30800000,0
+                  27.31100000,38.24600000,0
+                  27.10000000,38.14800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS077</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  26.60500000,40.11100000,0
+                  26.94000000,40.13600000,0
+                  27.92800000,40.46200000,0
+                  28.72500000,40.50300000,0
+                  28.52500000,40.55700000,0
+                  28.28900000,40.62400000,0
+                  28.18500000,40.65100000,0
+                  28.00100000,40.62900000,0
+                  27.80000000,40.60600000,0
+                  27.59900000,40.58200000,0
+                  27.44100000,40.56300000,0
+                  27.31200000,40.54800000,0
+                  27.14800000,40.52800000,0
+                  27.12700000,40.52200000,0
+                  27.05900000,40.50200000,0
+                  26.99300000,40.48200000,0
+                  26.91300000,40.45900000,0
+                  26.85100000,40.44100000,0
+                  26.78700000,40.42200000,0
+                  26.70400000,40.39800000,0
+                  26.64900000,40.38200000,0
+                  26.56600000,40.35800000,0
+                  26.51800000,40.34400000,0
+                  26.44500000,40.32200000,0
+                  26.38200000,40.30400000,0
+                  26.34500000,40.29300000,0
+                  26.28200000,40.27500000,0
+                  26.20100000,40.25000000,0
+                  26.23000000,40.10200000,0
+                  26.25300000,39.96100000,0
+                  26.26400000,39.82700000,0
+                  26.60500000,40.11100000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS085</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  38.16000000,37.94600000,0
+                  38.98400000,37.86000000,0
+                  39.43100000,38.09500000,0
+                  40.16600000,38.27400000,0
+                  41.06900000,38.31200000,0
+                  41.20600000,38.40300000,0
+                  41.38400000,38.32200000,0
+                  41.52200000,38.40800000,0
+                  40.62200000,38.74100000,0
+                  38.16000000,37.94600000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS087</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  40.62200000,38.74100000,0
+                  41.52200000,38.40800000,0
+                  42.23600000,38.18600000,0
+                  44.27700000,37.85600000,0
+                  43.41800000,38.28700000,0
+                  42.75800000,38.61900000,0
+                  42.47500000,38.71300000,0
+                  41.39800000,39.00900000,0
+                  40.87800000,38.97000000,0
+                  40.62200000,38.74100000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS090</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  38.63000000,39.24300000,0
+                  39.14600000,39.25200000,0
+                  40.07600000,38.96400000,0
+                  40.46700000,39.31300000,0
+                  40.22600000,39.38200000,0
+                  39.76000000,39.51500000,0
+                  39.35900000,39.63400000,0
+                  39.23000000,39.56400000,0
+                  39.08200000,39.48400000,0
+                  38.63000000,39.24300000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS091</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  37.90700000,38.08600000,0
+                  40.07600000,38.96400000,0
+                  39.14600000,39.25200000,0
+                  38.42400000,38.72000000,0
+                  37.90700000,38.08600000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS092</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  33.29000000,39.44600000,0
+                  33.66800000,39.86400000,0
+                  35.47700000,40.58800000,0
+                  34.53900000,40.77000000,0
+                  33.37400000,40.80100000,0
+                  33.12200000,40.41300000,0
+                  32.97400000,39.62300000,0
+                  33.29000000,39.44600000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS093</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  29.76800000,38.65400000,0
+                  30.39900000,38.53400000,0
+                  30.41700000,38.56300000,0
+                  30.44600000,38.60700000,0
+                  30.46800000,38.64100000,0
+                  30.49600000,38.68400000,0
+                  30.49700000,38.68500000,0
+                  29.35300000,38.95100000,0
+                  28.34600000,39.46300000,0
+                  27.98800000,39.55400000,0
+                  27.79400000,39.53000000,0
+                  27.55100000,39.19000000,0
+                  27.96200000,38.98600000,0
+                  28.05700000,39.04600000,0
+                  28.35100000,38.97400000,0
+                  29.15300000,38.95700000,0
+                  29.76800000,38.65400000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS094</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  29.35300000,38.95100000,0
+                  30.49700000,38.68500000,0
+                  30.73300000,38.95500000,0
+                  29.90300000,39.23500000,0
+                  29.54900000,39.32200000,0
+                  29.25500000,39.42100000,0
+                  28.88500000,39.46600000,0
+                  28.62900000,39.46200000,0
+                  28.34600000,39.46300000,0
+                  28.60300000,39.33200000,0
+                  28.77000000,39.24800000,0
+                  29.35300000,38.95100000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS095</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  32.56600000,38.71900000,0
+                  33.01200000,38.44900000,0
+                  33.55900000,38.30000000,0
+                  32.72600000,39.38500000,0
+                  31.79600000,39.69100000,0
+                  31.50500000,39.26900000,0
+                  32.35200000,38.89000000,0
+                  32.56600000,38.71900000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS096</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  30.49700000,38.68500000,0
+                  30.39900000,38.53400000,0
+                  30.53500000,38.47600000,0
+                  30.68900000,38.41100000,0
+                  30.93200000,38.45400000,0
+                  31.69200000,37.90900000,0
+                  31.71700000,37.92500000,0
+                  31.74900000,37.94600000,0
+                  31.79700000,37.97200000,0
+                  31.86800000,38.01500000,0
+                  31.92500000,38.04900000,0
+                  31.98500000,38.08500000,0
+                  32.03400000,38.11400000,0
+                  32.09000000,38.14900000,0
+                  31.95600000,38.22000000,0
+                  31.67100000,38.36500000,0
+                  31.07100000,38.80100000,0
+                  30.73300000,38.95500000,0
+                  30.49700000,38.68500000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS097</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  29.34000000,38.15200000,0
+                  29.40600000,37.79300000,0
+                  29.48400000,37.67900000,0
+                  29.58100000,37.63400000,0
+                  30.26600000,37.91300000,0
+                  30.31000000,38.25700000,0
+                  30.39900000,38.53400000,0
+                  29.76800000,38.65400000,0
+                  29.52400000,38.36800000,0
+                  29.34000000,38.15200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS098</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  31.99900000,37.03400000,0
+                  32.34700000,36.62300000,0
+                  32.53500000,36.16500000,0
+                  33.64000000,36.11100000,0
+                  34.55400000,36.26900000,0
+                  34.74300000,36.48300000,0
+                  34.61300000,36.74000000,0
+                  34.47900000,37.00100000,0
+                  34.67200000,37.69000000,0
+                  33.50000000,37.18800000,0
+                  31.99900000,37.03400000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS099</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  31.53700000,37.82300000,0
+                  31.99900000,37.03400000,0
+                  33.50000000,37.18800000,0
+                  34.67200000,37.69000000,0
+                  33.97600000,37.93600000,0
+                  33.55900000,38.30000000,0
+                  33.01200000,38.44900000,0
+                  32.56600000,38.71900000,0
+                  32.09000000,38.14900000,0
+                  31.69200000,37.90900000,0
+                  31.53700000,37.82300000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS100</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  30.26600000,37.91300000,0
+                  30.52400000,37.90400000,0
+                  30.58200000,37.50200000,0
+                  31.53700000,37.82300000,0
+                  31.69200000,37.90900000,0
+                  30.93200000,38.45400000,0
+                  30.68900000,38.41100000,0
+                  30.39900000,38.53400000,0
+                  30.31000000,38.25700000,0
+                  30.26600000,37.91300000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS103</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  26.49800000,38.12500000,0
+                  26.54100000,38.11800000,0
+                  26.74900000,38.07000000,0
+                  26.97500000,38.78500000,0
+                  27.55100000,39.19000000,0
+                  27.79400000,39.53000000,0
+                  27.48000000,39.48600000,0
+                  27.23000000,39.45000000,0
+                  26.92600000,39.40500000,0
+                  26.70500000,39.02400000,0
+                  26.34500000,38.91300000,0
+                  26.53300000,38.57700000,0
+                  26.52300000,38.44400000,0
+                  26.50900000,38.26300000,0
+                  26.49800000,38.12500000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS200</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  40.07600000,38.96400000,0
+                  40.62200000,38.74100000,0
+                  40.87800000,38.97000000,0
+                  41.39800000,39.00900000,0
+                  41.54300000,39.43500000,0
+                  41.19900000,39.51900000,0
+                  41.10700000,39.53900000,0
+                  40.77900000,39.61700000,0
+                  40.46700000,39.31300000,0
+                  40.07600000,38.96400000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS202</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  41.39800000,39.00900000,0
+                  42.48600000,38.71300000,0
+                  43.03600000,39.25600000,0
+                  41.86400000,39.35100000,0
+                  41.54300000,39.43500000,0
+                  41.39800000,39.00900000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>AZEAS023</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  44.92900000,41.62700000,0
+                  45.26900000,41.32500000,0
+                  46.36200000,40.97200000,0
+                  47.16900000,40.69100000,0
+                  48.09400000,39.92900000,0
+                  47.72300000,40.92200000,0
+                  46.63400000,41.32600000,0
+                  45.97400000,41.49800000,0
+                  45.40100000,41.72700000,0
+                  45.10500000,41.84400000,0
+                  44.92900000,41.62700000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>ARMAS024</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  47.87200000,38.95700000,0
+                  48.09400000,39.92900000,0
+                  47.16900000,40.69100000,0
+                  46.69500000,40.86200000,0
+                  45.26900000,41.32500000,0
+                  44.92900000,41.62700000,0
+                  44.07800000,41.72100000,0
+                  43.34500000,41.61900000,0
+                  43.44900000,41.15700000,0
+                  45.09600000,40.80100000,0
+                  46.54400000,40.37800000,0
+                  47.00800000,39.80800000,0
+                  47.87200000,38.95700000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>ARMAS029</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  43.15400000,40.80500000,0
+                  43.44400000,40.78700000,0
+                  43.70200000,40.75600000,0
+                  44.22400000,40.68400000,0
+                  45.03600000,40.47200000,0
+                  45.35500000,40.30200000,0
+                  46.24600000,40.02000000,0
+                  47.00800000,39.80800000,0
+                  46.54400000,40.37800000,0
+                  45.11800000,40.79500000,0
+                  43.44900000,41.15700000,0
+                  43.15400000,40.80500000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>ARMAS030</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  46.37300000,38.56200000,0
+                  46.44200000,38.34900000,0
+                  47.10500000,37.93200000,0
+                  47.44400000,37.53100000,0
+                  47.85400000,37.02200000,0
+                  48.25700000,38.56400000,0
+                  47.87200000,38.95700000,0
+                  47.00800000,39.80800000,0
+                  46.24600000,40.02000000,0
+                  45.35500000,40.30200000,0
+                  45.92000000,39.35300000,0
+                  46.37300000,38.56200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>ARMAS036</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  45.24500000,38.78100000,0
+                  45.33400000,38.72400000,0
+                  45.49000000,38.61900000,0
+                  45.72700000,38.46100000,0
+                  46.44200000,38.34900000,0
+                  46.43400000,38.37500000,0
+                  46.37300000,38.56200000,0
+                  45.35500000,40.30200000,0
+                  45.03600000,40.47200000,0
+                  44.22400000,40.68400000,0
+                  44.13400000,40.69700000,0
+                  43.99700000,40.71600000,0
+                  43.85100000,40.73600000,0
+                  43.77000000,40.44800000,0
+                  43.73800000,40.28900000,0
+                  44.59100000,39.55100000,0
+                  45.24500000,38.78100000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>ARMAS084</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  43.03600000,39.25600000,0
+                  44.60100000,38.50900000,0
+                  45.33400000,38.72400000,0
+                  45.24500000,38.78100000,0
+                  44.59100000,39.55100000,0
+                  43.73800000,40.28900000,0
+                  42.89100000,39.79400000,0
+                  43.03600000,39.25600000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>ARMAS088</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  42.07600000,39.91000000,0
+                  42.24000000,39.90300000,0
+                  42.89100000,39.79400000,0
+                  43.73800000,40.28900000,0
+                  43.77600000,40.48000000,0
+                  43.85100000,40.73600000,0
+                  43.44400000,40.78700000,0
+                  43.15400000,40.80500000,0
+                  42.07600000,39.91000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>BGRAS032</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  39.36200000,40.00700000,0
+                  40.86500000,40.27200000,0
+                  41.21700000,40.86700000,0
+                  41.53000000,41.40500000,0
+                  40.24800000,41.10400000,0
+                  38.54200000,41.12800000,0
+                  37.37300000,41.43300000,0
+                  36.45800000,41.70600000,0
+                  35.68500000,41.99400000,0
+                  35.11100000,42.19100000,0
+                  34.33700000,42.34300000,0
+                  33.98300000,42.31800000,0
+                  33.42000000,42.23100000,0
+                  32.92700000,42.11800000,0
+                  32.30000000,41.87000000,0
+                  31.59700000,41.58800000,0
+                  31.07100000,41.43400000,0
+                  30.86200000,41.37300000,0
+                  30.60400000,41.42100000,0
+                  29.80900000,41.41100000,0
+                  29.14700000,41.70600000,0
+                  28.67000000,42.00800000,0
+                  28.46900000,42.26900000,0
+                  27.85200000,42.16100000,0
+                  28.17900000,41.63300000,0
+                  28.58700000,41.04700000,0
+                  29.02400000,41.04200000,0
+                  29.20700000,40.91800000,0
+                  29.65600000,40.87600000,0
+                  30.14100000,40.88300000,0
+                  30.98000000,40.89100000,0
+                  31.46400000,40.82600000,0
+                  31.88600000,40.89100000,0
+                  32.55400000,41.06500000,0
+                  32.91100000,41.15700000,0
+                  33.21800000,41.23600000,0
+                  33.48200000,41.30400000,0
+                  35.31800000,41.28400000,0
+                  36.34800000,41.01100000,0
+                  37.41100000,40.63200000,0
+                  38.19400000,40.38200000,0
+                  39.36200000,40.00700000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>BGRAS043</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  23.00800000,41.54300000,0
+                  23.94000000,41.52300000,0
+                  25.23300000,41.28100000,0
+                  26.00800000,41.42100000,0
+                  27.22300000,41.53200000,0
+                  28.19000000,41.61800000,0
+                  27.85200000,42.16100000,0
+                  25.96000000,42.37300000,0
+                  24.54300000,42.37700000,0
+                  23.34100000,42.63200000,0
+                  23.00800000,41.54300000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>BGRAS048</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  25.38900000,40.54900000,0
+                  26.02600000,40.62100000,0
+                  26.55300000,40.74800000,0
+                  27.09800000,40.87400000,0
+                  27.57900000,40.98500000,0
+                  27.99500000,41.02500000,0
+                  28.58700000,41.04700000,0
+                  28.19000000,41.61800000,0
+                  27.61300000,41.56700000,0
+                  26.75700000,41.48900000,0
+                  26.00800000,41.42100000,0
+                  25.23300000,41.28100000,0
+                  23.94000000,41.52300000,0
+                  23.00800000,41.54300000,0
+                  22.92200000,40.96900000,0
+                  23.49500000,40.82500000,0
+                  23.93400000,40.62500000,0
+                  24.35300000,40.43400000,0
+                  24.90300000,40.30700000,0
+                  25.38900000,40.54900000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>BGRAS078</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  23.34100000,42.63200000,0
+                  24.54300000,42.37700000,0
+                  25.96000000,42.37300000,0
+                  27.85200000,42.16100000,0
+                  28.46900000,42.26900000,0
+                  29.12700000,42.40100000,0
+                  28.78500000,42.83200000,0
+                  26.96500000,43.01100000,0
+                  26.44100000,43.09600000,0
+                  25.45400000,43.12700000,0
+                  23.50500000,43.40000000,0
+                  23.34100000,42.63200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>CYPAS012</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  32.23400000,35.41400000,0
+                  33.06800000,35.13300000,0
+                  33.89500000,35.13700000,0
+                  34.60000000,35.35000000,0
+                  35.19100000,35.60700000,0
+                  34.55400000,36.26900000,0
+                  33.64000000,36.11100000,0
+                  32.53500000,36.16500000,0
+                  31.97500000,36.16700000,0
+                  32.23400000,35.41400000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>CYPAS038</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  32.01200000,34.17900000,0
+                  32.66800000,34.09100000,0
+                  32.52400000,34.66700000,0
+                  32.23400000,35.41400000,0
+                  31.97500000,36.16700000,0
+                  31.63000000,36.17300000,0
+                  32.01200000,34.17900000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>CYPAS039</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  33.70000000,33.90800000,0
+                  35.14500000,34.20000000,0
+                  34.60000000,35.35000000,0
+                  33.89500000,35.13700000,0
+                  33.06800000,35.13300000,0
+                  32.23400000,35.41400000,0
+                  32.52400000,34.66700000,0
+                  32.66800000,34.09100000,0
+                  33.70000000,33.90800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GEOAS019</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  28.46900000,42.26900000,0
+                  28.67000000,42.00800000,0
+                  29.14700000,41.70600000,0
+                  29.80900000,41.41100000,0
+                  30.60400000,41.42100000,0
+                  30.86200000,41.37300000,0
+                  31.59700000,41.58800000,0
+                  32.53500000,41.96500000,0
+                  32.92700000,42.11800000,0
+                  33.40000000,42.22700000,0
+                  33.98300000,42.31800000,0
+                  34.17300000,42.33200000,0
+                  34.33700000,42.34300000,0
+                  35.11100000,42.19100000,0
+                  35.60500000,42.02100000,0
+                  35.91400000,41.90900000,0
+                  36.45800000,41.70600000,0
+                  37.32300000,41.44800000,0
+                  38.54200000,41.12800000,0
+                  40.24800000,41.10400000,0
+                  41.53000000,41.40500000,0
+                  41.69900000,41.82300000,0
+                  41.76200000,41.95900000,0
+                  41.90600000,42.14000000,0
+                  39.10300000,42.12500000,0
+                  37.74700000,42.17800000,0
+                  37.20100000,42.56600000,0
+                  36.35900000,42.78000000,0
+                  36.06500000,42.80900000,0
+                  34.75100000,42.85300000,0
+                  33.96100000,42.85400000,0
+                  32.63200000,42.64400000,0
+                  31.09600000,41.90400000,0
+                  30.31000000,42.02100000,0
+                  29.64400000,42.16300000,0
+                  29.12700000,42.40100000,0
+                  28.46900000,42.26900000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GEOAS022</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  39.36200000,40.00700000,0
+                  39.84000000,39.79400000,0
+                  40.58200000,39.65900000,0
+                  41.54900000,39.98200000,0
+                  42.29200000,41.00300000,0
+                  42.42300000,41.20900000,0
+                  42.53500000,41.38200000,0
+                  42.64100000,41.54700000,0
+                  42.24900000,41.49900000,0
+                  41.53000000,41.40500000,0
+                  41.25900000,40.93700000,0
+                  40.86500000,40.27200000,0
+                  39.36200000,40.00700000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GEOAS025</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  41.90600000,42.14000000,0
+                  41.76200000,41.95900000,0
+                  41.68800000,41.79400000,0
+                  41.53000000,41.40500000,0
+                  42.52600000,41.53400000,0
+                  43.32200000,41.61600000,0
+                  44.07800000,41.72100000,0
+                  44.92900000,41.62700000,0
+                  45.10500000,41.84400000,0
+                  44.26600000,42.06300000,0
+                  43.18200000,42.18600000,0
+                  41.90600000,42.14000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GEOAS026</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  39.10300000,42.12500000,0
+                  39.34700000,42.12900000,0
+                  39.53100000,42.13200000,0
+                  39.63900000,42.13300000,0
+                  40.10900000,42.13800000,0
+                  40.61300000,42.14100000,0
+                  41.06800000,42.14200000,0
+                  41.40300000,42.14200000,0
+                  41.90600000,42.14000000,0
+                  43.06600000,42.51600000,0
+                  42.32900000,42.56700000,0
+                  41.67700000,42.80200000,0
+                  39.41000000,43.02200000,0
+                  39.10300000,42.12500000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GEOAS089</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  41.54900000,39.98200000,0
+                  42.07600000,39.91000000,0
+                  42.62100000,40.36200000,0
+                  42.86000000,40.56000000,0
+                  43.15400000,40.80500000,0
+                  43.44900000,41.15700000,0
+                  43.34500000,41.61900000,0
+                  42.87200000,41.57000000,0
+                  42.64100000,41.54700000,0
+                  42.28600000,40.99400000,0
+                  41.54900000,39.98200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GEOAS106</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  41.90600000,42.14000000,0
+                  43.20800000,42.18500000,0
+                  44.25600000,42.06600000,0
+                  44.74300000,41.94000000,0
+                  45.10500000,41.84400000,0
+                  45.52200000,41.67900000,0
+                  45.97400000,41.49800000,0
+                  45.64300000,41.83200000,0
+                  45.42600000,42.04900000,0
+                  45.16400000,42.20000000,0
+                  44.89900000,42.33500000,0
+                  44.66300000,42.43400000,0
+                  44.38200000,42.52600000,0
+                  44.21900000,42.58100000,0
+                  43.52900000,42.63700000,0
+                  43.06600000,42.51600000,0
+                  41.90600000,42.14000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS046</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  23.25800000,37.87800000,0
+                  23.34800000,37.87700000,0
+                  24.02200000,37.86600000,0
+                  24.65100000,37.85700000,0
+                  25.08000000,37.85200000,0
+                  25.21800000,37.89900000,0
+                  25.13800000,37.98000000,0
+                  24.86700000,38.13800000,0
+                  24.34800000,38.43600000,0
+                  23.37500000,38.85200000,0
+                  22.71300000,38.88000000,0
+                  22.71800000,38.76400000,0
+                  23.25800000,37.87800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS047</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  22.80500000,40.01400000,0
+                  23.65300000,39.90900000,0
+                  24.08300000,39.85300000,0
+                  24.42200000,40.04300000,0
+                  24.90300000,40.30700000,0
+                  24.64400000,40.36700000,0
+                  24.35300000,40.43400000,0
+                  23.49500000,40.82500000,0
+                  22.92200000,40.96900000,0
+                  22.69700000,40.77100000,0
+                  22.80500000,40.01400000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS053</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  26.56000000,37.48300000,0
+                  27.73700000,37.68200000,0
+                  28.21300000,37.61700000,0
+                  28.98200000,37.65400000,0
+                  29.48400000,37.67900000,0
+                  29.40600000,37.79300000,0
+                  28.67900000,38.10200000,0
+                  28.27000000,38.02200000,0
+                  27.38000000,37.99700000,0
+                  27.10000000,38.14800000,0
+                  26.87500000,38.01800000,0
+                  26.74900000,38.07000000,0
+                  26.70300000,37.99200000,0
+                  26.62500000,37.88700000,0
+                  26.56000000,37.48300000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS054</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  27.85800000,35.90200000,0
+                  27.88400000,35.91100000,0
+                  27.99100000,35.94300000,0
+                  28.64300000,36.13900000,0
+                  29.35100000,36.96600000,0
+                  29.45000000,37.08300000,0
+                  29.52500000,37.17000000,0
+                  29.72400000,37.27400000,0
+                  29.89800000,37.36500000,0
+                  30.58200000,37.50200000,0
+                  30.57300000,37.57100000,0
+                  30.55100000,37.71800000,0
+                  30.53000000,37.86100000,0
+                  30.52400000,37.90400000,0
+                  30.43700000,37.90700000,0
+                  30.32100000,37.91100000,0
+                  30.26600000,37.91300000,0
+                  29.58100000,37.63400000,0
+                  29.01600000,37.17700000,0
+                  28.44500000,36.74000000,0
+                  28.37400000,36.63300000,0
+                  28.21300000,36.40600000,0
+                  27.85800000,35.90200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS058</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  23.61600000,36.10000000,0
+                  24.45700000,36.09100000,0
+                  25.23900000,36.08700000,0
+                  26.51000000,36.32100000,0
+                  26.61800000,36.66600000,0
+                  27.42100000,37.02700000,0
+                  26.88200000,37.20900000,0
+                  26.49600000,37.11000000,0
+                  25.94400000,37.01300000,0
+                  25.27400000,36.64500000,0
+                  23.61300000,36.52500000,0
+                  23.61600000,36.10000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS057</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  25.13800000,37.98000000,0
+                  25.21800000,37.89900000,0
+                  26.14800000,38.17100000,0
+                  26.49800000,38.12500000,0
+                  26.53300000,38.57700000,0
+                  26.34500000,38.91300000,0
+                  25.97600000,38.92200000,0
+                  25.43900000,38.47100000,0
+                  25.13800000,37.98000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS059</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  23.61300000,36.52500000,0
+                  25.27400000,36.64500000,0
+                  25.94400000,37.01300000,0
+                  26.49600000,37.11000000,0
+                  26.56000000,37.48300000,0
+                  25.27700000,37.24000000,0
+                  24.95100000,37.18000000,0
+                  24.59900000,37.18700000,0
+                  23.49700000,37.16700000,0
+                  23.61300000,36.52500000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS060</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  23.49700000,37.16700000,0
+                  24.01200000,37.17600000,0
+                  24.64200000,37.18800000,0
+                  24.95100000,37.18000000,0
+                  25.27700000,37.24000000,0
+                  25.08000000,37.85200000,0
+                  23.25800000,37.87800000,0
+                  23.41400000,37.59500000,0
+                  23.49700000,37.16700000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS062</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  25.27700000,37.24000000,0
+                  26.56000000,37.48300000,0
+                  26.62500000,37.88700000,0
+                  26.70300000,37.99200000,0
+                  26.74900000,38.07000000,0
+                  26.54100000,38.11800000,0
+                  26.14800000,38.17100000,0
+                  25.21800000,37.89900000,0
+                  25.08000000,37.85200000,0
+                  25.27700000,37.24000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS063</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  24.86700000,38.13800000,0
+                  25.13800000,37.98000000,0
+                  25.43900000,38.47100000,0
+                  25.97600000,38.92200000,0
+                  25.75400000,39.04600000,0
+                  25.51100000,39.18200000,0
+                  25.13200000,38.87100000,0
+                  25.10500000,38.79800000,0
+                  24.86700000,38.13800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS064</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  25.97600000,38.92200000,0
+                  26.34500000,38.91300000,0
+                  26.70500000,39.02400000,0
+                  26.92600000,39.40500000,0
+                  26.93500000,39.44800000,0
+                  26.94400000,39.49900000,0
+                  26.95200000,39.54400000,0
+                  26.96900000,39.63800000,0
+                  26.98200000,39.69700000,0
+                  26.99400000,39.75900000,0
+                  26.81200000,39.70700000,0
+                  26.61700000,39.65100000,0
+                  26.44100000,39.59800000,0
+                  26.26200000,39.54500000,0
+                  26.24600000,39.54900000,0
+                  26.20300000,39.56100000,0
+                  26.15200000,39.57500000,0
+                  26.11300000,39.58600000,0
+                  26.04100000,39.65400000,0
+                  25.69600000,39.64700000,0
+                  25.51100000,39.18200000,0
+                  25.79100000,39.02500000,0
+                  25.97600000,38.92200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS066</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  23.37500000,38.85200000,0
+                  23.99200000,38.59200000,0
+                  24.34800000,38.43600000,0
+                  24.91500000,39.10000000,0
+                  25.60400000,39.66700000,0
+                  25.50400000,40.08400000,0
+                  24.94000000,39.90300000,0
+                  23.37500000,38.85200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS067</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  23.89100000,35.34900000,0
+                  24.80400000,35.11100000,0
+                  25.43600000,35.03000000,0
+                  26.37700000,35.09200000,0
+                  26.68800000,35.75300000,0
+                  26.36800000,35.61400000,0
+                  25.68900000,35.53500000,0
+                  24.98900000,35.51100000,0
+                  24.56600000,35.59500000,0
+                  23.79100000,35.81600000,0
+                  23.89100000,35.34900000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS068</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  24.66700000,34.16300000,0
+                  25.38200000,33.30900000,0
+                  26.89700000,34.08400000,0
+                  27.82400000,34.66500000,0
+                  28.61000000,35.11900000,0
+                  29.50200000,35.14600000,0
+                  30.18200000,35.79800000,0
+                  29.55000000,35.64800000,0
+                  28.30700000,35.57500000,0
+                  27.54100000,35.09700000,0
+                  26.77200000,34.91100000,0
+                  26.39500000,34.65900000,0
+                  24.66700000,34.16300000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS076</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  25.95300000,32.74800000,0
+                  32.01200000,34.17900000,0
+                  30.47400000,35.02500000,0
+                  30.01800000,35.16700000,0
+                  29.50200000,35.14600000,0
+                  28.61000000,35.11900000,0
+                  27.86100000,34.68600000,0
+                  26.89700000,34.08400000,0
+                  25.38200000,33.30900000,0
+                  25.95300000,32.74800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS079</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  24.66700000,34.16300000,0
+                  26.39500000,34.65900000,0
+                  26.77200000,34.91100000,0
+                  27.54100000,35.09700000,0
+                  28.30700000,35.57500000,0
+                  29.55000000,35.64800000,0
+                  30.18200000,35.79800000,0
+                  30.52500000,36.38100000,0
+                  30.27000000,36.42800000,0
+                  29.78100000,36.02700000,0
+                  29.39300000,35.89300000,0
+                  28.64300000,36.13900000,0
+                  27.88400000,35.91100000,0
+                  27.58300000,35.80700000,0
+                  26.74300000,35.22500000,0
+                  26.37700000,35.09200000,0
+                  25.43600000,35.03000000,0
+                  24.80400000,35.11100000,0
+                  23.89100000,35.34900000,0
+                  23.87900000,34.60900000,0
+                  24.66700000,34.16300000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS080</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  24.94000000,39.90300000,0
+                  25.50400000,40.08400000,0
+                  26.20100000,40.25000000,0
+                  26.02600000,40.62100000,0
+                  25.94400000,40.61200000,0
+                  25.90900000,40.60800000,0
+                  25.86300000,40.60300000,0
+                  25.76700000,40.59200000,0
+                  25.65400000,40.57900000,0
+                  25.38900000,40.54900000,0
+                  24.90300000,40.30700000,0
+                  24.94000000,39.90300000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS101</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  26.37700000,35.09200000,0
+                  26.74300000,35.22500000,0
+                  27.58300000,35.80700000,0
+                  27.85800000,35.90200000,0
+                  28.37400000,36.63300000,0
+                  26.68800000,35.75300000,0
+                  26.37700000,35.09200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS102</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  26.51000000,36.32100000,0
+                  28.44500000,36.74000000,0
+                  29.01600000,37.17700000,0
+                  27.42100000,37.02700000,0
+                  26.61800000,36.66600000,0
+                  26.51000000,36.32100000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS058</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  24.86700000,38.13800000,0
+                  25.13200000,38.87100000,0
+                  25.51100000,39.18200000,0
+                  25.69600000,39.64700000,0
+                  25.60400000,39.66700000,0
+                  25.46000000,39.55000000,0
+                  24.91500000,39.10000000,0
+                  24.34800000,38.43600000,0
+                  24.86700000,38.13800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>IRNAS035</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  45.09800000,38.02300000,0
+                  45.60700000,37.51500000,0
+                  45.98700000,37.12700000,0
+                  46.96300000,37.30200000,0
+                  47.49200000,37.47200000,0
+                  47.10500000,37.93200000,0
+                  46.44200000,38.34900000,0
+                  45.72700000,38.46100000,0
+                  45.33400000,38.72400000,0
+                  44.60100000,38.50900000,0
+                  45.09800000,38.02300000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>IRNAS082</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  45.60700000,36.84800000,0
+                  45.58100000,37.30100000,0
+                  45.21500000,37.44900000,0
+                  44.84800000,37.59000000,0
+                  44.62000000,37.69200000,0
+                  44.47300000,37.75700000,0
+                  44.27700000,37.85600000,0
+                  42.23600000,38.18600000,0
+                  41.52200000,38.40800000,0
+                  41.38400000,38.32200000,0
+                  41.37000000,38.32800000,0
+                  41.29300000,38.36000000,0
+                  41.20600000,38.40300000,0
+                  41.06900000,38.31200000,0
+                  41.23200000,38.19900000,0
+                  41.92500000,37.71500000,0
+                  42.27700000,37.56200000,0
+                  42.62400000,37.48800000,0
+                  44.07300000,37.17300000,0
+                  45.18500000,36.93600000,0
+                  45.60700000,36.84800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>IRNAS083</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  42.17500000,36.36700000,0
+                  44.57900000,34.47200000,0
+                  46.09000000,32.05700000,0
+                  47.86800000,31.99900000,0
+                  48.36100000,33.01700000,0
+                  46.13300000,34.62700000,0
+                  45.76700000,34.98800000,0
+                  45.60500000,35.33700000,0
+                  45.19300000,35.72900000,0
+                  44.36500000,36.38400000,0
+                  43.96800000,36.58000000,0
+                  43.23300000,36.79400000,0
+                  42.67500000,37.25000000,0
+                  42.41300000,37.33500000,0
+                  41.94900000,37.39700000,0
+                  42.17500000,36.36700000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>IRNAS105</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  45.60600000,35.83900000,0
+                  45.60500000,35.33700000,0
+                  45.76700000,34.98800000,0
+                  46.13300000,34.62700000,0
+                  46.77300000,34.17500000,0
+                  47.90000000,33.35800000,0
+                  48.35200000,33.87000000,0
+                  47.12300000,35.83500000,0
+                  47.23800000,36.43900000,0
+                  46.45300000,36.88800000,0
+                  45.98700000,37.12700000,0
+                  45.58100000,37.30100000,0
+                  45.60700000,36.84800000,0
+                  45.60600000,35.83900000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>IRQAS210</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  45.60700000,36.84800000,0
+                  44.89600000,36.99900000,0
+                  44.11400000,37.16400000,0
+                  43.59300000,37.27900000,0
+                  42.96900000,37.41500000,0
+                  42.27700000,37.56200000,0
+                  41.92500000,37.71500000,0
+                  41.91500000,37.72300000,0
+                  41.94900000,37.39700000,0
+                  42.41300000,37.33500000,0
+                  42.67500000,37.25000000,0
+                  43.23300000,36.79400000,0
+                  43.96800000,36.58000000,0
+                  44.36500000,36.38400000,0
+                  44.72400000,36.10200000,0
+                  45.01100000,35.87500000,0
+                  45.19300000,35.72900000,0
+                  45.60500000,35.33700000,0
+                  45.60700000,36.84800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>RUSAS020</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  43.08900000,42.90900000,0
+                  44.55900000,43.01900000,0
+                  41.74300000,43.90000000,0
+                  40.41800000,43.69900000,0
+                  41.43600000,43.39100000,0
+                  42.27400000,43.14700000,0
+                  42.70900000,43.01800000,0
+                  43.08900000,42.90900000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>RUSAS021</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  39.41000000,43.02200000,0
+                  41.67700000,42.80200000,0
+                  42.32900000,42.56700000,0
+                  43.06600000,42.51600000,0
+                  43.52900000,42.63700000,0
+                  44.21900000,42.58100000,0
+                  43.08900000,42.90900000,0
+                  42.60300000,43.05000000,0
+                  41.53500000,43.36200000,0
+                  40.41800000,43.69900000,0
+                  39.41000000,43.02200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>RUSAS031</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  43.08900000,42.90900000,0
+                  44.21900000,42.58100000,0
+                  44.61200000,42.45100000,0
+                  44.96600000,42.30100000,0
+                  45.19100000,42.18400000,0
+                  45.42600000,42.04900000,0
+                  45.65200000,41.98500000,0
+                  46.14000000,41.79800000,0
+                  46.43800000,41.68300000,0
+                  46.79100000,41.52000000,0
+                  47.03200000,41.40800000,0
+                  47.57800000,41.25300000,0
+                  47.25600000,41.82200000,0
+                  45.88000000,42.47300000,0
+                  45.03200000,42.84200000,0
+                  44.55900000,43.01900000,0
+                  44.35300000,43.00700000,0
+                  43.08900000,42.90900000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>RUSAS104</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  45.97400000,41.49800000,0
+                  46.63400000,41.32600000,0
+                  47.72300000,40.92200000,0
+                  47.57800000,41.25300000,0
+                  47.03200000,41.40800000,0
+                  46.43800000,41.68300000,0
+                  45.65200000,41.98500000,0
+                  45.42600000,42.04900000,0
+                  45.97400000,41.49800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>ROUAS042</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  23.50500000,43.40000000,0
+                  25.42200000,43.13100000,0
+                  26.44100000,43.09600000,0
+                  26.98900000,43.00600000,0
+                  28.78500000,42.83200000,0
+                  28.98400000,43.12600000,0
+                  27.50000000,43.24900000,0
+                  26.33100000,43.74500000,0
+                  25.93100000,44.17600000,0
+                  23.75000000,43.81200000,0
+                  23.50500000,43.40000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>ROUAS041</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  27.50000000,43.24900000,0
+                  28.98400000,43.12600000,0
+                  29.17500000,43.37500000,0
+                  28.00100000,44.04000000,0
+                  26.58800000,44.56700000,0
+                  25.93100000,44.17600000,0
+                  26.33100000,43.74500000,0
+                  27.50000000,43.24900000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>SYRAS001</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  36.13900000,33.24200000,0
+                  39.20100000,34.76800000,0
+                  40.43500000,35.64700000,0
+                  39.91700000,36.31100000,0
+                  38.45600000,35.38400000,0
+                  36.60000000,34.64600000,0
+                  36.49900000,34.18700000,0
+                  36.06000000,33.55000000,0
+                  36.13900000,33.24200000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>SYRAS002</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  36.60000000,34.64600000,0
+                  38.45600000,35.38400000,0
+                  37.31500000,37.39700000,0
+                  36.87300000,35.87300000,0
+                  36.60000000,34.64600000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>SYRAS003</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  34.97800000,33.27000000,0
+                  35.29900000,33.26600000,0
+                  35.32200000,33.61000000,0
+                  35.96300000,34.70200000,0
+                  36.09100000,35.22800000,0
+                  35.14500000,34.20000000,0
+                  34.98800000,33.53000000,0
+                  34.97800000,33.27000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>SYRAS011</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  35.14500000,34.20000000,0
+                  36.09100000,35.22800000,0
+                  35.94900000,35.96000000,0
+                  35.81000000,36.11900000,0
+                  35.19100000,35.60700000,0
+                  34.60000000,35.35000000,0
+                  35.14500000,34.20000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>SYRAS017</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  40.43500000,35.64700000,0
+                  42.17500000,36.36700000,0
+                  41.94900000,37.39700000,0
+                  39.91700000,36.31100000,0
+                  40.43500000,35.64700000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS027</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  36.09100000,35.22800000,0
+                  36.33500000,35.22400000,0
+                  36.37200000,35.57700000,0
+                  36.87300000,35.87300000,0
+                  37.31500000,37.39700000,0
+                  37.14100000,37.45400000,0
+                  37.00400000,37.33700000,0
+                  36.61700000,37.45700000,0
+                  36.40000000,36.79500000,0
+                  35.81000000,36.11900000,0
+                  35.94900000,35.96000000,0
+                  36.09100000,35.22800000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>TURAS086</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  38.45600000,35.38400000,0
+                  39.91700000,36.31100000,0
+                  41.94900000,37.39700000,0
+                  41.91500000,37.72300000,0
+                  41.06900000,38.31200000,0
+                  40.16600000,38.27400000,0
+                  39.43100000,38.09500000,0
+                  38.98400000,37.86000000,0
+                  38.14000000,37.94600000,0
+                  37.31500000,37.39700000,0
+                  38.45600000,35.38400000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>SYRAS203</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  36.08600000,33.14400000,0
+                  36.13900000,33.24200000,0
+                  36.06000000,33.55000000,0
+                  36.49900000,34.18700000,0
+                  36.87300000,35.87300000,0
+                  36.37200000,35.57700000,0
+                  36.33500000,35.22400000,0
+                  36.09100000,35.22800000,0
+                  35.96300000,34.70200000,0
+                  35.32200000,33.61000000,0
+                  35.29900000,33.26600000,0
+                  36.08600000,33.14400000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+    <Placemark>
+        <name>GRCAS056</name>
+           <styleUrl>#EQLoc</styleUrl>
+           <Style> <PolyStyle> <color>ffffffff</color> </PolyStyle> </Style>
+             <Polygon> <outerBoundaryIs>  <LinearRing>
+                <coordinates>
+                  22.71300000,38.88000000,0
+                  23.37500000,38.85200000,0
+                  24.94000000,39.90300000,0
+                  24.90300000,40.30700000,0
+                  24.08300000,39.85300000,0
+                  22.80500000,40.01400000,0
+                  22.71300000,39.40300000,0
+                  22.71300000,38.88000000,0
+            </coordinates>
+        </LinearRing> </outerBoundaryIs> </Polygon>
+    </Placemark>
+</Document>
+</kml>
